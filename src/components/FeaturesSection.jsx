@@ -26,7 +26,7 @@ function FeaturesSection() {
             id: "03",
             title: "The Growth of Gaming",
             image: game,
-            text: "How the pandemic has sparked fresh opportunities"
+            text: "How the pandemic has sparked fresh opportunities here"
         }
     ]
   return (
